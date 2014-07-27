@@ -1,0 +1,9 @@
+Building GoddessCoin
+
+See doc/readme-qt.rst for instructions on building GoddessCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GoddessCoin.
+
+See doc/build-*.txt for instructions on building GoddessCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GoddessCoin.
